@@ -45,5 +45,3 @@ services:
     volumes: 
         - /home/node/app/node_modules
         - ./worker:/home/node/app
-
-
